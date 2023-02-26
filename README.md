@@ -4,7 +4,7 @@ Wine Notes
 
 This app lets you rate multiple wines and their characteristics. App then stores this data into browsers local storage. From "My wines" -view you are able to see all the different wines that you have rated. By clicking a wine in the list you can view all the rating data stored. You can also sort the list by clicking different columns.
 
-Try the app: https://ctisu002xamk.github.io/winenotes/
+Try the app: https://timo-suni.github.io/winenotes/
 
 ## About
 
